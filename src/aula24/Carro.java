@@ -11,6 +11,7 @@ public class Carro {
     String marca;
 	String modelo;
         String cor;
+        String test;
 	int numPassageiros;
 	double capCombustivel;
 	double consumoCombustivel;
