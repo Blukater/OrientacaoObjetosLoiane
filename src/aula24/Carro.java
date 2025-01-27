@@ -8,11 +8,9 @@ package aula24;
 
 public class Carro {
     
-    String marca;
+        String marca;
 	String modelo;
-        String cor;
-        String test;
-	int numPassageiros;
+       	int numPassageiros;
 	double capCombustivel;
 	double consumoCombustivel;
         
